@@ -1,6 +1,6 @@
 ##CSS Lesson 1 and 2 Task 1 | HTML Semantic Elements
 
-Link To live site : https://ig-matrix.github.io/Lesson_1and2_Task_6_Omoma_Ighawosa/
+Link To live site : https://ig-matrix.github.io/Lesson_1and2_Task_1_Omoma_Ighawosa/
 
 ##How to run/test this project
 
